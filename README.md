@@ -5,6 +5,8 @@
 
 - 🌱 Atualmente estou aprendendo **Java Spring Framework, Postgree SQL/MongoDB, Python, Javascript**
 
+- 📃 Meu Linkedln [https://www.linkedin.com/in/gabrielcorreabsb/](https://www.linkedin.com/in/gabrielcorreabsb/)
+
 - 👨‍💻 Todos os meus projectos estão disponíveis em [https://github.com/gabrielcorreabsb](https://github.com/gabrielcorreabsb)
 
 - 📫 Você pode me encontrar em: **blogsrto@gmail.com**
