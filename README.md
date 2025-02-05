@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snakedbr&label=Profile%20views&color=0e75b6&style=flat" alt="snakedbr" /> </p>
 
-- 🌱 Atualmente estou aprendendo **Java Spring Framework, Postgree SQL/MongoDB, Python, Javascript**
+- 🌱 Atualmente estou aprendendo **Java Spring Framework, Postgree SQL, Python, Javascript**
 
 - 📃 Meu Linkedin [https://www.linkedin.com/in/gabrielcorreabsb/](https://www.linkedin.com/in/gabrielcorreabsb/)
 
