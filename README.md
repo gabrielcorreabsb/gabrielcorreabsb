@@ -34,8 +34,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielcorreabsb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Gabriel Corrêa GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcorreabsb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Gabriel Corrêa Top Languages" />
+  <img height="165em" src="https://github-readme-stats-delta-weld-38.vercel.app//api?username=gabrielcorreabsb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Gabriel Corrêa GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-delta-weld-38.vercel.app//api/top-langs/?username=gabrielcorreabsb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Gabriel Corrêa Top Languages" />
 </p>
 
 ---
