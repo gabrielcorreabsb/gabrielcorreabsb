@@ -1,21 +1,65 @@
-<h1 align="center">Olá, sou o Gabriel Corrêa</h1>
-<h3 align="center">Atualmente no último semestre da faculdade, focado em expandir meus conhecimentos em desenvolvimento back-end e boas práticas de programação.</h3>
+<h1 align="center">Gabriel Corrêa</h1>
+<h3 align="center">Software Developer & Systems Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snakedbr&label=Profile%20views&color=0e75b6&style=flat" alt="snakedbr" /> </p>
-
-- 🌱 Atualmente estou aprendendo **Java Spring Framework, Postgree SQL, Python, Javascript**
-
-- 📃 Meu Linkedin [https://www.linkedin.com/in/gabrielcorreabsb/](https://www.linkedin.com/in/gabrielcorreabsb/)
-
-- 👨‍💻 Todos os meus projectos estão disponíveis em [https://github.com/gabrielcorreabsb](https://github.com/gabrielcorreabsb)
-
-- 📫 Você pode me encontrar em: **blogsrto@gmail.com**
-
-<h3 align="left">Conecte=se comigo:</h3>
-<p align="left">
-<a href="https://instagram.com/gabriel.correabsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel.correabsb" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabrielcorreabsb&label=Profile%20views&color=0e75b6&style=flat-square" alt="gabrielcorreabsb" />
 </p>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  Software engineering focused on back-end architecture, low-latency desktop applications, real-time in-game telemetry/overlays, and network infrastructure.<br>
+  Hands-on experience ranging from low-level systems in <b>C++ (Direct3D 11 / Win32 API)</b> and <b>C# (.NET / WPF)</b> to web applications and REST APIs with <b>Java (Spring Boot)</b>, <b>Next.js</b>, and <b>Python</b>.
+</p>
 
+---
+
+### ⚡ Featured Engineering & Projects
+
+- 🚛 **[SimDuty](https://simduty.com)** ![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fsimduty.com&style=flat-square&up_message=online&up_color=2ea44f&label=simduty.com) : Multi-region Hours of Service (HOS) management and real-time telemetry platform for truck simulators (ETS2 / ATS). Built with a **C# (WPF)** desktop client paired with a native **C++ (`Direct3D 11`)** plugin using shared memory and graphics hooks for low-overhead, in-game overlay rendering.
+- 🌐 **[OPNsense Home Lab & Multi-WAN](https://github.com/gabrielcorreabsb/opnsense_domestico)** ![Repo Stars](https://img.shields.io/github/stars/gabrielcorreabsb/opnsense_domestico?style=flat-square&color=0e75b6) : Bare-metal **OPNsense** firewall architecture and documentation featuring Multi-WAN Load Balancing (~2 Gbps), advanced traffic shaping for bufferbloat mitigation (`FQ-CoDel`), and local recursive DNS resolution (`Unbound` + `AdGuard Home`).
+
+---
+
+### 🛠️ Tech Stack
+
+**Systems, Desktop & Low-Level:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,dotnet,windows,linux" alt="Systems and Desktop" />
+</p>
+
+**Back-End, Web & Databases:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,py,ts,js,react,nextjs,postgres,mysql,mongodb" alt="Back-End and Web" />
+</p>
+
+**Infrastructure, DevOps & Tools:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,figma" alt="Infrastructure and Tools" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielcorreabsb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Gabriel's GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcorreabsb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://simduty.com" target="_blank">
+    <img src="https://img.shields.io/badge/SimDuty-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="SimDuty" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabrielcorreabsb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:blogsrto@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/gabriel.correabsb" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
