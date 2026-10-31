@@ -52,7 +52,4 @@
   <a href="mailto:blogsrto@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email Contact" />
   </a>
-  <a href="https://instagram.com/gabriel.correabsb" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </p>
